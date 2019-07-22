@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+.arrowleft {
+  transform: rotate(180deg)
+}
+.arrowup {
+  transform: rotate(90deg)
+}
+.arrowdown {
+  transform: rotate(270deg)
+}
